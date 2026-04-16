@@ -1,5 +1,6 @@
-# AuroraMusic3
+<br># AuroraMusic3
 Versao 3.0 do Music Player com novos recursos. 
+<br>
 **Descrição**
 Plataforma de streaming e gerenciamento de áudio baseada em arquitetura PHP MVC, projetada para alta performance em hardware legado e sistemas Linux. O projeto prioriza baixo consumo de recursos e respostas rápidas de interface.
 
